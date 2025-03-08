@@ -1,23 +1,23 @@
 
 
 
-"""def personalized_greeting():
+def personalized_greeting():
     desconocido = str(input("Cual es tu nombre? "))
     print(f"Hola, {desconocido}!")
     if desconocido == str(""):
         print("Hola, desconocido!")
 
-personalized_greeting()"""
+personalized_greeting()
 
 
-"""
+
 def multiply(first_number, second_number):
     product = (first_number * second_number)
     return product
 
 my_result = multiply(5, 5)
 print(my_result)
-"""""""""
+
 
 #3
 
